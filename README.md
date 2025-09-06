@@ -13,7 +13,7 @@ This project is not intended to replace Postman, but to understand how such apps
 -  Built for **learning Electron.js**
 
 ---
-![App Screenshot](./postman-clone/Screenshot 2025-09-06 124230.png)
+![App Screenshot](./postman-clone/screenshot-124230.png)
 
 ---
 
